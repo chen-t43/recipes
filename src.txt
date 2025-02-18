@@ -1,0 +1,2 @@
+makeblastdb -in channel.pep -dbtype prot -out channel_db
+makeblastdb -in blue.pep -dbtype prot -out blue_db
